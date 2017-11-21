@@ -1,0 +1,14 @@
+<div id="comments-container"></div>
+<link rel="stylesheet" href="//imsun.github.io/gitment/style/default.css">
+<script src="//imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  owner: 'Kntt',
+  repo: 'blog-comment',
+  oauth: {
+    client_id: '27aecdee4e9ffa64714d',
+    client_secret: 'a64ec5117efc783ddf1f1d79ba30822d9640d0f0',
+  },
+})
+gitment.render('comments-container')
+</script>

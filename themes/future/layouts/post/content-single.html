@@ -21,7 +21,7 @@
     {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
         <article class="post">
         <h3>评论：</h3>
-            {{ partial "duoshuo" . }}
+            {{ partial "gitment" . }}
         </article>
     {{ end }}
 {{ end }}
