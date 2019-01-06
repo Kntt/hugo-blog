@@ -4,17 +4,64 @@ title: 关于我
 weight: 40
 ---
 
-## <i class="fa fa-user"></i> 个人说明
-**刘岩松**，1988年出生，热爱互联网技术，《大众软件》是我的第一任计算机老师，看过的兄弟你们懂的~；喜欢逻辑性强的东西（数学，物理，化学）；大学专业是化学，从事过一段化工行业的工作，但是对计算机的热情从未减弱，一直自学计算机技术；自学WEB技术后，一直从事前端工作；熟练使用**HTML5**，**CSS3**，**JavaScript**，以及**AngularJs**，**Vue.js**等MVVM框架，**jquery**，**zepto**等热门JS库；熟悉**ES6**新语法规范（现在用**ES6**语法规范来完成工作需求），喜欢并且熟练使用Gulp，Grunt，Webpack等前端自动化工具（懒...）;后端技术，熟悉**NodeJS**（写过项目，继续完善中...），**PHP**(最好的语言，你懂的)，**Golang**（语法简单，非常适合高并发处理）；还会熟练使用**Photoshop**；本人喜欢研究“技（zhuang）术（bi）”，希望认认识热爱技术的朋友！
+# <i class="fa fa-user"></i> 个人信息
+
+- 刘岩松 - 男 - 1988
+- 工作年限：6年
+- 技术博客：[liuys.me](http:/liuys.me)
+- Github：[https://github.com/Kntt](https://github.com/Kntt)
+- 职位：高级前端工程师
+- 城市：北京
+ 
+- - -
+# <i class="fa fa-list"></i> 工作经历
+
+### 凡普金科集团有限公司 （ 2017年3月 ~ 至今 ）
+  
+### 燕之庐技术有限公司 （ 2015年9月 ~ 2017年3月 ）
+
+### 中国石油独山子石化分公司（ 2011年9月 ~ 2015年9月 ）
+
+- - -
+## <i class="fa fa-github"></i> 开源项目
+
+### 1. [Vue2.0 Starter](https://github.com/Kntt/vue-starter) 基于vue官方template创建的开箱即用的脚手架
+- 增加版本控制脚本```version.js```，控制发布版本
+- 增加mock配置， 方便前后端分离开发
+- 使用```husky```，处理precommit，保证提交前代码lint，eslint可以根据个人或团队规范自行制定
+- 移动端，扩展了flexible.js, 配合px2rem 使用rem适配[需要请查看app分支](https://github.com/Kntt/vue-starter/tree/app)
+
+### 2. [Taro-request](https://github.com/Kntt/taro-request) 对taro的request模块的扩展
+- 扩展请求拦截，响应拦截
+- Promise包装请求，使用过程更利于ES6新语法
+- 计划增加 请求超时处理，请求冻结处理，主动取消请求功能
+
+### 3. [flutter-app-study](https://github.com/Kntt/flutter-app-study) 学习flutter过程写的demo
+- flutter布局页面
+- 通过编码使用复杂背景，避免使用背景图片
+- 使用redux进行状态管理
+- 管理静态资源，通过iconfont管理应用图标
+- 扫码功能实现
+
+- - -
+## <i class="fa fa-rebel"></i> 技能清单
+
+- 前端开发：JavaScript/TypeScript/HTML/CSS
+- 前端框架：Vue/Angular/React
+- 前端工具：SaSS/LeSS/Stylus/Webpack/RollupBower/Gulp/Grunt
+- 客户端框架：Flutter/Electron
+- 服务端开发：NodeJs
+- 数据库相关：MySQL/SQLite/MongoDB
+- 版本管理：Git
+      
+- - -
+## <i class="fa fa-phone"></i> 与我联系
+- Email : [kntt9968@gmail.com](mailto://kntt9968@gmail.com)
+- Blog  ：[http://liuys.me](http://liuys.me)
+- Q Q   : 76701782
 
 - - -
 ## <i class="fa fa-bullhorn"></i> 博客说明
-一句话，岁数大了记性不好（23333）；开个玩笑，把博客当作笔记，作为一种积累，时不时的看看自己最近有什么收获；每个阶段对于知识的理解程度都不相同，希望通过写博客的过程再学习一遍，同时也可以分享给需要的人（欢迎指正错误）；本博客使用[Hugo](https://www.gohugo.io/)搭建;
+限量版的技术生涯，要记录下来～
 
-- - -
-## <i class="fa fa-phone"></i> 与我联系
-<i class="fa fa-envelope"></i> : [kntt9968@gmail.com](mailto://kntt9968@gmail.com)<br>
-<i class="fa fa-send"></i>：[http://liuys.me](http://liuys.me)<br>
-<i class="fa fa-qq"></i> : 76701782<br>
-期待与您成为朋友！
-
+本博客使用[Hugo](https://www.gohugo.io/)搭建;
